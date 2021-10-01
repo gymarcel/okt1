@@ -27,9 +27,22 @@ h1{
 
     font-size: 30px;
     font-weight: bold;
-    font-family: 'Baloo Tammudu 2', cursive;
+    font-family: 'Roboto', sans-serif;
     
   }
+
+  #egy{
+    background-color: red;
+  }
+  #ketto{
+    background-color: royalblue;
+  }
+  #harom{
+    background-color: silver;
+  }
+
+
+
 
   main{
     border: 10px solid #4285f4;
@@ -60,3 +73,14 @@ h1{
     margin-bottom: 0px;
     padding-top: 25px; 
   }
+
+  h3{
+    background-color: green;
+    border-bottom: blue;
+    border-top: red;
+    border-left: brown;
+    border-right: black;
+    padding: 20px black;
+    margin: 25px #666;
+  }
+
